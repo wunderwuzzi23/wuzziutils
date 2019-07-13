@@ -1,2 +1,2 @@
 # wuzziutils
-Useful simple utility library for Go
+This repo just contains useful helper packages for Go
